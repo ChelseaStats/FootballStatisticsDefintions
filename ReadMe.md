@@ -108,7 +108,11 @@ Percentage of total shots that have been saved.
 
 Time on Pitch percentage. 
 
-    The mins a player plays for their team in competition X divided by total potential minutes.
+    The mins a player plays for their team / total potential minutes.
+    
+##### Total Potentinal Minutes
+
+    Number of games team has played * 90 
 
 ####Player Analytics Section
 
