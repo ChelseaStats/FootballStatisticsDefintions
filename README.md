@@ -1,7 +1,7 @@
 
 ## View the definitons
 
-[Click Here](https://github.com/OnsideFC/defintions/definitions.md)
+[Click Here](https://github.com/OnsideFC/Definitions/blob/gh-pages/DEFINITIONS.md)
 
 ## Suggesting and Making a Change
 
