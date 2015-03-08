@@ -114,6 +114,8 @@ Time on Pitch percentage.
 
     Number of games team has played * 90 
 
+On the assumption you'd only really do this at league level, remember to factor in extra time in some games if you are doing all competitions.
+
 ####Player Analytics Section
 
 ##### Per90 – p90, /90 or just Foo90
