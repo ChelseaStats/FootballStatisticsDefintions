@@ -31,11 +31,11 @@ The traditional big 7 premier league teams over recent long term rankings.
     Man City
     Spurs
 
-###### Threatened 13
+##### Threatened 13
 
 All the Premier League teams that are not in the big 7 (supreme 7).
 
-###### Ever 7
+##### Ever 7
 
 The current ever-present Premier League teams 
 
@@ -56,6 +56,14 @@ The previous season for some sides might in fact be several years ago if they su
 ##### Close
 
 Around 85% of results are settled by close scorelines, where the result is +1/0/-1 for example 1-0, 2-1, 2-3, 4-5.
+
+##### Shots
+
+Shots are split into three groups
+
+    Shots on target (thus either saved or scored)
+    Shots off target (includes hitting the post/crossbar)
+    Shots blocked
 
 ##### TSR – Total Shots Ratio
 
@@ -94,11 +102,17 @@ Percentage of total shots placed on target.
 
 ##### Pass% – Passing Accuracy
 
-Usually given as a percent.
+Usually given as a percentage.
 
-##### Sv% – Save Percent
+    (Passes Attempted / Passes Completed ) * 100
+
+or can simply be displayed as the two values `(xx/yy)`  
+
+##### Sv% - Save% – Save Percent
 
 Percentage of total shots that have been saved.
+
+    ((Shots on Target - Goals) / Total Shots on Target ) * 100
 
 ##### PDO
 
