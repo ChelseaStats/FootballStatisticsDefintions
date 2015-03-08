@@ -1,5 +1,40 @@
 ######  Statistical Definitions in Football
 
+##### League Table fields
+
+    PLD - played
+    W - Wins
+    D - Draws
+    L - Losses
+    CS - Clean Sheet
+    FS - Failed to Score
+    BTTS - Both Teams Scored
+    F - Goals For
+    A - Goals Against
+    GD - Goal Difference (Goals For - Goals Against)
+    W% - Win Percentage  (Wins / PLD) * 100
+    D% - Draw Percentage (Draws / PLD) * 100
+    L% - Loss Percentage (Losses / PLD) * 100
+    U% - Unbeaten Percentage ((Wins + Draws)/ PLD) * 100
+    PPG - Points Per Game (((Wins * 3) + Draws)/ PLD) 
+    PTS - Points (Wins * 3) + Draws)
+
+##### Big 7 / Supreme 7 
+
+The traditional big 7 premier league teams over recent long term rankings.
+
+    Arsenal
+    Chelsea
+    Everton
+    Liverpool
+    Man Utd
+    Man City
+    Spurs
+
+###### Threatened 13
+
+All the Premier League teams that are not in the big 7 (supreme 7).
+
 ##### TSR – Total Shots Ratio
 
 A ratio to explain how teams fare against their average competition in the shots battle. Ex: If Manchester City has 20 shots in the match and Newcastle have 10, City’s TSR for that match is .67, Newcastle’s is .33.
