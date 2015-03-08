@@ -1,4 +1,8 @@
 
+## View the definitons
+
+[Click Here](https://github.com/OnsideFC/defintions/definitions.md)
+
 ## Suggesting and Making a Change
 
 Spot and issue or something missing then create an issue and then branch of this repo, 
