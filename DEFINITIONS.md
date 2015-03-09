@@ -19,7 +19,7 @@
     PPG - Points Per Game (((Wins * 3) + Draws)/ PLD) 
     PTS - Points (Wins * 3) + Draws)
 
-##### Big 7 / Supreme 7 
+##### Big 7 / Superior 7 
 
 The traditional big 7 premier league teams over recent long term rankings.
 
@@ -33,7 +33,7 @@ The traditional big 7 premier league teams over recent long term rankings.
 
 ##### Threatened 13
 
-All the Premier League teams that are not in the big 7 (supreme 7).
+All the Premier League teams that are not in the big 7 (superior 7).
 
 ##### Ever 7
 
