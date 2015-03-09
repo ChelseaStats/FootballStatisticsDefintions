@@ -119,6 +119,18 @@ The defensive side of Shots on Target.
 
 Percentage of total shots placed on target.
 
+#### Shots Conversion %
+
+The number of goals from shots on target expressed as a percentage. 
+
+#### Chance conversion %
+
+The number of goals from all shots expressed as a percentage. 
+
+#### Chances Created
+
+passes, crosses or set pieces that lead to a shot. 
+
 #### Pass% – Passing Accuracy
 
 Usually given as a percentage.
