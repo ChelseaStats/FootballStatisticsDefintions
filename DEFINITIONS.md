@@ -212,6 +212,10 @@ Calculating Expected Points from bookmarkers' decimal odds.
     home expected points = a + b
     away expected points = b + c
     
+@SimonGleave wrote about it <a href="https://scoreboardjournalism.wordpress.com/2012/09/01/how-to-avoid-rank-journalism-a-simple-expected-points-model/">here</a>
+
+Bookmarkers odds can be taken from each of their websites, but football-data.co.uk does an excellent job of combining these for each game on a weekly basis.
+    
 #### PAdj Defensive Stats – Stands for Possession-Adjusted. 
 
 Essentially, the problem with defensive rate stats is that you can’t make a tackle, interception, etc when your team has the ball. Thus teams that have a lot of the ball will have under-represented defensive output compared to a team with low possession. These types of stats attempt to adjust for opportunity, but as of June 30, 2014 are very new and still in development.
