@@ -199,7 +199,7 @@ Essentially, the problem with defensive rate stats is that you can’t make a ta
 
 Game state is essentially the current score but marked as -1, 0, +1, +2, +3, a team leading 1-0 is likely to go into a defensive shell and hit on the counter attack, thus it is likely the losing team would see an increase in possession metrics, shots, final third entries these are known as score effects.
 
-This might explain why it's a common punditry term that 2-0 is a dangerous scoreline. Benjamin Pugsley is the main driver for this temrinology and metrics. see @ObjectiveFooty for more info.
+This might explain why it's a common punditry term that 2-0 is a dangerous scoreline. Benjamin Pugsley is the main driver for this terminology and metrics. see @ObjectiveFooty for more info.
 
 #### Pace or Shot Pace
 
