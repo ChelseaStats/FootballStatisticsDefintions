@@ -1,6 +1,3 @@
-
-# READ ME
-
 ## Formatting:
 
 Ratios - should be in the format of `x.xxx` to 3 decimal places (dp).
