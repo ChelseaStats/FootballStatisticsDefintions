@@ -68,7 +68,7 @@ Shots are split into three groups
 #### TSR – Total Shots Ratio
 
 A ratio to explain how teams fare against their average competition in the shots battle. Ex: If Manchester City has 20 shots in the match and Newcastle have 10, City’s TSR for that match is .67, Newcastle’s is .33.
-James Grayson has written about this frequently on his website here. We care about TSR for teams because it has a reasonably strong correlation to points and goal difference.
+James Grayson has written about this frequently on his website <a href="http://jameswgrayson.wordpress.com/2012/12/02/introducing-tsr2-4/">here</a>. We care about TSR for teams because it has a reasonably strong correlation to points and goal difference.
 In hockey, this is called Corsi.
 
     Shots For / ( Shots For + Shots Against )
@@ -76,6 +76,8 @@ In hockey, this is called Corsi.
 #### ShDom – Shot Dominance 
 
 A different way of expressing TSR. Instead of looking at the shots battle as a ratio, we instead look at it centered around an average of 1. Ex: If Manchester City has 20 shots in the match and Newcastle have 10, City’s ShDom is 2.0 and Newcastle’s is .5.
+
+Ted Knutson (@Mixedknuts) looked at league shot dominance for previous Champions League Qualifiers <a href="http://statsbomb.com/2013/10/what-does-it-take-to-qualify-for-the-champions-league/">here</a>.
 
 #### SoTR – Shots on Target Ratio
 
@@ -86,7 +88,8 @@ Similar to TSR this focuses on those important shots on target instead.
 #### ExpG – Expected Goals
 
 This is shorthand for either the expected goals from a particular input (shots, shots on target, key passes, whatever) or it is often specifically referring to someone’s model.
-In our case, that would be the one developed by Colin Trainor and Constantinos Chappas, but others use it for expectation output from their models as well.
+
+for example one developer by <a href="http://statsbomb.com/2013/08/goal-expectation-and-efficiency/">Colin Trainor and Constantinos Chappas</a>.
 
 #### SOT – Shots on Target
 
@@ -116,7 +119,9 @@ Percentage of total shots that have been saved.
 
 #### PDO
 
-“PDO is the sum of a teams shooting percentage (goals/shots on target) and its save percentage (saves/shots on target against). It treats each shot as having an equal chance of being scored – regardless of location, the shooter, or the identity or position of the ‘keeper and any defenders. Despite this obvious shortcoming it regresses heavily towards the mean – meaning that it has a large luck component. In fact, over the course of a Premiership season, the distance a teams PDO is from 1000 is ~60% luck.” - James Grayson
+“PDO is the sum of a teams shooting percentage (goals/shots on target) and its save percentage (saves/shots on target against). It treats each shot as having an equal chance of being scored – regardless of location, the shooter, or the identity or position of the ‘keeper and any defenders. Despite this obvious shortcoming it regresses <a href="http://jameswgrayson.wordpress.com/2011/05/14/sh-sv-pdo-part-n/">heavily towards the mean</a> – meaning that it has a large luck component. In fact, over the course of a Premiership season, the distance a teams PDO is from 1000 is <a href="http://jameswgrayson.wordpress.com/2011/04/15/pdo-part-ii/">~60% luck</a>.” - <a href="http://jameswgrayson.wordpress.com/2013/12/23/on-the-spread-of-pdo-throughout-a-premiership-season/">James Grayson</a>
+
+In other articles about PDO, it has often been used around the 100 marker rather than 1000, perhaps this is because it's more familiar to english users and percentages etc.
 
 #### ToP%
 
@@ -134,7 +139,8 @@ On the assumption you'd only really do this at league level, remember to factor 
 
 Normalization for time, usually used in player stats. Instead of dividing a player’s rate stat by games or appearances, you take all the minutes played and divide them into 90 minute chunks. Then take THAT number and use it as you would games played.
 
-It’s useful in helping to extrapolate player production into more meaningful units. Ben Pugsley wrote a primer on this here.
+It’s useful in helping to extrapolate player production into more meaningful units. 
+Ben Pugsley wrote a primer <a href="http://statsbomb.com/2013/08/an-introduction-to-the-per-90-metric/">here</a>.
 
     player value / ( sum of minutes / 90 )
 
@@ -186,18 +192,27 @@ Calculating Expected Points from bookmarkers' odds
 
 Essentially, the problem with defensive rate stats is that you can’t make a tackle, interception, etc when your team has the ball. Thus teams that have a lot of the ball will have under-represented defensive output compared to a team with low possession. These types of stats attempt to adjust for opportunity, but as of June 30, 2014 are very new and still in development.
 
+statsbomb wrote about it <a href="http://statsbomb.com/2014/06/introducing-possession-adjusted-player-stats/">here</a>.
+
+#### YAPSS
+
+Young Attacking Player Statistical Scout. It’s a model developed by Ted Knutson that attempts to use statistics on players that are age 23 or under to find future stars. The introductory piece can be found <a href="http://statsbomb.com/2014/06/statistical-scouting-young-super-stars/">here</a> and more can be found by searching site articles for YAPSS.
 
 #### Defensive Shell
 
 “A defensive shell is a tactical concept that refers when a team largely relinquishes their attacking intent and focuses on protecting the goal. (Also known as turtling.) Teams often do this after taking the lead in a match.”
 
+statsbomb wrote about it <a href="http://statsbomb.com/2013/08/introduction-to-defensive-shells/">here</a>
+
     Example: Premier League 2013-14 Liverpool 0-2 Chelsea.
 
 #### Score Effects / Game State 
 
-Game state is essentially the current score but marked as -1, 0, +1, +2, +3, a team leading 1-0 is likely to go into a defensive shell and hit on the counter attack, thus it is likely the losing team would see an increase in possession metrics, shots, final third entries these are known as score effects.
+Game state is essentially the current score but marked as -1, 0, +1, +2, +3, a team leading 1-0 is likely to go into a defensive shell and hit on the counter attack, thus it is likely the losing team would see an increase in possession metrics, shots, final third entries these are known as <a href="http://statsbomb.com/2013/12/score-effects/">score effects</a>.
 
 This might explain why it's a common punditry term that 2-0 is a dangerous scoreline. Benjamin Pugsley is the main driver for this terminology and metrics. see @ObjectiveFooty for more info.
+
+<a href="http://11tegen11.net/2013/04/06/game-states-and-conversion/">Game states and conversion</a>.
 
 #### Pace or Shot Pace
 
@@ -207,8 +222,12 @@ Usually referring to the total number of shots taken in an average game, either 
 
 Some teams/leagues exhibit high average paces (like the English Premier League) and some exhibit low ones. Teams also vary within those leagues.
 
+bitterandblue wrote about it <a href="http://bitterandblue.sbnation.com/2013/1/24/3908816/football-soccer-analytics-pace">here</a> and statsbomb <a href="http://statsbomb.com/2013/11/pace-and-margin-for-error/">here</a>.
+
 #### Zone Entries
 
 A hockey concept that unfortunately requires infinite work to record manually. It examines how teams put the ball into the final third, and is thought to provide significant insight into team philosophy and attacking style.
 
 Would require better camera angles for self-recording, overhead or behind the goal.
+
+Statsbomb wrote about it <a href="http://statsbomb.com/2013/08/an-introduction-to-zone-entries/">here</a>.
