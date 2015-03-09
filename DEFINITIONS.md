@@ -142,9 +142,13 @@ Normalization for time, usually used in player stats. Instead of dividing a play
 
 It’s useful in helping to extrapolate player production into more meaningful units. Ben Pugsley wrote a primer on this here.
 
+    player value / ( sum of minutes / 90 )
+
 #### NPG – Non-penalty Goals
 
 A goal tally for a player after you strip out the penalty goals.
+
+    goals - pens
 
 #### G90 – Goals Per90
 
@@ -189,18 +193,24 @@ Essentially, the problem with defensive rate stats is that you can’t make a ta
 
 “A defensive shell is a tactical concept that refers when a team largely relinquishes their attacking intent and focuses on protecting the goal. (Also known as turtling.) Teams often do this after taking the lead in a match.”
 
-#### Score Effects and/or Game State 
+    Example: Premier League 2013-14 Liverpool 0-2 Chelsea.
 
-Benjamin Pugsley wrote a primer on this here and Sander Ijtsma (@11tegen11) has a number of strong pieces about it on his site, including this one on Game State and Conversion.
+#### Score Effects / Game State 
+
+Game state is essentially the current score but marked as -1, 0, +1, +2, +3, a team leading 1-0 is likely to go into a defensive shell and hit on the counter attack, thus it is likely the losing team would see an increase in possession metrics, shots, final third entries these are known as score effects.
+
+This might explain why it's a common punditry term that 2-0 is a dangerous scoreline. Benjamin Pugsley is the main driver for this temrinology and metrics. see @ObjectiveFooty for more info.
 
 #### Pace or Shot Pace
 
 Usually referring to the total number of shots taken in an average game, either by team or by league. It’s a proxy for looking at how quickly teams play.
 
-Some teams/leagues exhibit high average paces (like the English Premier League) and some exhibit low ones. Teams also vary within those leagues.
+    total shots / total games
 
-As far as I know, this is the initial article that talked about this concept.
+Some teams/leagues exhibit high average paces (like the English Premier League) and some exhibit low ones. Teams also vary within those leagues.
 
 #### Zone Entries
 
 A hockey concept that unfortunately requires infinite work to record manually. It examines how teams put the ball into the final third, and is thought to provide significant insight into team philosophy and attacking style.
+
+Would require better camera angles for self-recording, overhead or behind the goal.
