@@ -15,9 +15,11 @@ Percentages - should be in the format `xx.xx%` to 2dp.
 Spot and issue or something missing then create an issue and then branch of this repo, 
 make your changes and issue a pull request back to the master branch attached to the issue.
 
+You can either do this in git, in a client or via the github.com website.
+
 ## Questions?
 
-[Open an Issue](https://github.com/OnsideFC/onsidefc.github.io/issues/new) and let's chat!
+[Open an Issue](https://github.com/OnsideFC/definitions/issues/new) !
 
 ## Rules
 
