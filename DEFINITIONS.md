@@ -182,6 +182,8 @@ A player or team’s goal tally with all the penalties stripped out, divided int
 
 Often written that way as part of a quick player stat summary.  Ex: Messi produced 46G/12A in the 2012-13 La Liga season.
 
+Assists can be subjective and they differ from stats providers to a club's own statisticians generally penalties won do not count, yet they tend to do so in fantasy leagues.
+
 #### A90 – Assists Per 90
 
     assists / (sum of minutes / 90)
