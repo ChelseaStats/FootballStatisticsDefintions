@@ -263,6 +263,6 @@ Statsbomb wrote about it <a href="http://statsbomb.com/2013/08/an-introduction-t
 
 ## Links
 
-http://www.squawka.com/football-stats-definitions
-http://statsbomb.com/stat-definitions/
-http://www.cbssports.com/help/glossary/stats/soccer
++ http://www.squawka.com/football-stats-definitions
++ http://statsbomb.com/stat-definitions/
++ http://www.cbssports.com/help/glossary/stats/soccer
