@@ -259,3 +259,10 @@ A hockey concept that unfortunately requires infinite work to record manually. I
 Would require better camera angles for self-recording, overhead or behind the goal.
 
 Statsbomb wrote about it <a href="http://statsbomb.com/2013/08/an-introduction-to-zone-entries/">here</a>.
+
+
+## Links
+
+http://www.squawka.com/football-stats-definitions
+http://statsbomb.com/stat-definitions/
+http://www.cbssports.com/help/glossary/stats/soccer
