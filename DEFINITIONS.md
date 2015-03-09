@@ -204,7 +204,13 @@ Used interchangeably sometimes with “scoring contribution.”  It’s a more c
     
 #### Expected Points
 
-Calculating Expected Points from bookmarkers' odds
+Calculating Expected Points from bookmarkers' decimal odds.
+
+    a = (1 / odds home) / (1 / odds home win) + (1 / odds draw) + (1 / odds away win)
+    b = (1 / odds draw) / (1 / odds home win) + (1 / odds draw) + (1 / odds away win)
+    c = (1 / odds away) / (1 / odds home win) + (1 / odds draw) + (1 / odds away win)
+    home expected points = a + b
+    away expected points = b + c
     
 #### PAdj Defensive Stats – Stands for Possession-Adjusted. 
 
