@@ -31,9 +31,21 @@ The traditional big 7 premier league teams over recent long term rankings.
     Man City
     Spurs
 
+@ChelseaStats publishes tables on a per <a href="https://www.thechels.co.uk/category/the-big-7-league/">gameweek</a> basis  
+
+For an explanation of these categorisations, Simon Gleave wrote about the concept of the <a href="https://scoreboardjournalism.wordpress.com/2013/12/30/introducing-the-superior-7-and-the-threatened-13/">Superior 7</a> in December 2013.
+
+This concept still exists despite Everton’s performance in the 2014-15 season as it is based on the longer term. However, Southampton are threatening to transform the categories into 'Excellent 8 and Threatened 12' if they repeat their recent performances next season.
+
 #### Threatened 13
 
 All the Premier League teams that are not in the big 7 (superior 7).
+
+For an explanation of these categorisations, Simon Gleave wrote about the concept of the <a href="https://scoreboardjournalism.wordpress.com/2013/12/30/introducing-the-superior-7-and-the-threatened-13/">Threatened 13</a> in December 2013.
+
+@ChelseaStats published an updated table <a href="https://www.thechels.co.uk/threatened-13/">here</a>.
+
+@ChelseaStats also ranks teams against their opposite groups <a href="https://www.thechels.co.uk/big-7-vs-t13/">here</a>
 
 #### Ever 7
 
@@ -47,11 +59,15 @@ The current ever-present Premier League teams
     Man Utd
     Spurs
 
+A ranking of teams that have an equal number of games in the premier league. @ChelseaStarts publishes this on a per <a href="https://www.thechels.co.uk/category/the-ever-7-league/">gameweek basis</a> 
+
 #### Last38
 
 The Last 38 – This is the ultimate form guide, it refers to the last 38 league games a team has played in the Premier League, during a season this means we take the data from the current season and use the end of the previous season to make up 38 games. There are of course 38 games in a season, so it can be seen as a final table that is updated every gameweek.
 
 The previous season for some sides might in fact be several years ago if they suffered relegation and didn't get promoted again for a number of years.
+
+based on an idea by @OmarChauduri. @ChelseaStats <a href="https://www.thechels.co.uk/last-38-league/">automated the process</a>  of calculating per <a href="https://www.thechels.co.uk/category/the-last-38-league/">gameweek</a>. 
 
 #### Close
 
