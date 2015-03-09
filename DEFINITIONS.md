@@ -2,8 +2,8 @@
 
 ###### Formatting:
 
-    Ratios - should be in the format of `x.xxx` to 3 decimal places (dp).
-    Percentages - should be in the format `xx.xx%` to 2dp
+Ratios - should be in the format of `x.xxx` to 3 decimal places (dp).
+Percentages - should be in the format `xx.xx%` to 2dp
     
 
 ##### League Table fields
