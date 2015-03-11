@@ -59,7 +59,7 @@ The current ever-present Premier League teams
     Man Utd
     Spurs
 
-A ranking of teams that have an equal number of games in the premier league. @ChelseaStarts publishes this on a per <a href="https://www.thechels.co.uk/category/the-ever-7-league/">gameweek basis</a> 
+A ranking of teams that have an equal number of games in the premier league. @ChelseaStats publishes this on a per <a href="https://www.thechels.co.uk/category/the-ever-7-league/">gameweek basis</a> 
 
 #### Last38
 
@@ -201,6 +201,7 @@ Assists can be subjective and they differ from stats providers to a club's own s
     assists / (sum of minutes / 90)
 
 #### G+A90 – Goals + Assists per 90
+> Also known as Points Per 90
 
 Used interchangeably sometimes with “scoring contribution.”  It’s a more complete way of measuring an individual player’s total offensive contribution than just looking at either G90 or A90 in a vacuum.
 
