@@ -5,7 +5,7 @@
 + Percentages - should be in the format `xx.xx%` to 2dp.
 
 
-### Calculating Percenages
+### Calculating Percentages
 
     round ( value / sum ) * 100 ) , 2 )  
 
