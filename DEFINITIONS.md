@@ -82,6 +82,7 @@ Shots are split into three groups
     Shots blocked
 
 #### TSR – Total Shots Ratio
+> also known as shots share
 
 A ratio to explain how teams fare against their average competition in the shots battle. Ex: If Manchester City has 20 shots in the match and Newcastle have 10, City’s TSR for that match is .67, Newcastle’s is .33.
 James Grayson has written about this frequently on his website <a href="http://jameswgrayson.wordpress.com/2012/12/02/introducing-tsr2-4/">here</a>. We care about TSR for teams because it has a reasonably strong correlation to points and goal difference.
@@ -264,6 +265,8 @@ Usually referring to the total number of shots taken in an average game, either 
 Some teams/leagues exhibit high average paces (like the English Premier League) and some exhibit low ones. Teams also vary within those leagues.
 
 bitterandblue wrote about it <a href="http://bitterandblue.sbnation.com/2013/1/24/3908816/football-soccer-analytics-pace">here</a> and statsbomb <a href="http://statsbomb.com/2013/11/pace-and-margin-for-error/">here</a>.
+
+Shot pace might be best expressed as an average x.xx minutes per shot for/against at a team level. One could then map whether pace was changing over the course of the season.
 
 #### Zone Entries
 
