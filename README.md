@@ -1,8 +1,11 @@
 ## Formatting:
 
 + Ratios - should be in the format of `x.xxx` to 3 decimal places (dp).
-+ Times - should be expressed in Minutes with 2dp for seconds. `x.xx`    
++ Times - should be expressed in Minutes with 2dp for seconds. `x.xx`
 + Percentages - should be in the format `xx.xx%` to 2dp.
+
+
+### Calculating Percenages
 
     round ( value / sum ) * 100 ) , 2 )  
 
