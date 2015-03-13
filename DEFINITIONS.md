@@ -283,3 +283,4 @@ Statsbomb wrote about it <a href="http://statsbomb.com/2013/08/an-introduction-t
 + http://statsbomb.com/stat-definitions/
 + http://www.cbssports.com/help/glossary/stats/soccer
 + http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf
++ http://footballintheclouds.blogspot.ca/p/glossary-of-terms.html
