@@ -220,11 +220,11 @@ Used interchangeably sometimes with “scoring contribution.”  It’s a more c
 
 Calculating Expected Points from bookmarkers' decimal odds.
 
-    a = (1 / odds home) / (1 / odds home win) + (1 / odds draw) + (1 / odds away win)
-    b = (1 / odds draw) / (1 / odds home win) + (1 / odds draw) + (1 / odds away win)
-    c = (1 / odds away) / (1 / odds home win) + (1 / odds draw) + (1 / odds away win)
-    home expected points = a + b
-    away expected points = b + c
+    a = (1 / odds home) / ( (1 / odds home win) + (1 / odds draw) + (1 / odds away win) )
+    b = (1 / odds draw) / ( (1 / odds home win) + (1 / odds draw) + (1 / odds away win) )
+    c = (1 / odds away) / ( (1 / odds home win) + (1 / odds draw) + (1 / odds away win) )
+    home expected points = ( 3 * a ) + b
+    away expected points = b + ( c * 3 )
     
 @SimonGleave wrote about it <a href="https://scoreboardjournalism.wordpress.com/2012/09/01/how-to-avoid-rank-journalism-a-simple-expected-points-model/">here</a>
 
