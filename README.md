@@ -1,14 +1,15 @@
 ## Formatting:
 
 + Ratios - should be in the format of `x.xxx` to 3 decimal places (dp).
-+ Times - should be expressed in Minutes with 2dp for seconds. `x.xx`
++ Times - should be expressed in minutes with 2dp for seconds `x.xx` for in-game references 
+        - or for kick-off times and similar higher level times `24:MM:SS` of the timezone of the location in question.
++ Dates -should be in the ISO standard of `yyyy-mm-dd` to avoid any confusion with American/English formats.
 + Percentages - should be in the format `xx.xx%` to 2dp.
 
 
 ### Calculating Percentages
 
     round ( value / sum ) * 100 ) , 2 )  
-
 
 
 ## View the definitons
