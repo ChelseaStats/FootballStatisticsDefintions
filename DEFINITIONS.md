@@ -73,6 +73,11 @@ based on an idea by @OmarChauduri. @ChelseaStats <a href="https://www.thechels.c
 
 Around 85% of results are settled by close scorelines, where the result is +1/0/-1 for example 1-0, 2-1, 2-3, 4-5.
 
+#### Fouls Ratio
+
+The percentage of a game's fouls committed by team `A`. As of mid-March 2015, Man City had averaged around 65% of the fouls in their games, despite being a possession dominant team.
+
+
 #### Shots
 
 Shots are split into three groups
