@@ -14,7 +14,7 @@
 
 ## View the definitons
 
-[Click Here](https://github.com/OnsideFC/Definitions/blob/gh-pages/DEFINITIONS.md)
+[Click Here](https://github.com/ChelseaFC/FootballStatisticsDefintions/blob/gh-pages/DEFINITIONS.md)
 
 ## Suggesting and Making a Change
 
