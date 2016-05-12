@@ -25,7 +25,7 @@ You can either do this in git, in a client or via the github.com website.
 
 ## Questions?
 
-[Open an Issue](https://github.com/OnsideFC/definitions/issues/new) !
+[Open an Issue](https://github.com/ChelseaStats/FootballStatisticsDefintions/issues/new) !
 
 ## Rules
 
